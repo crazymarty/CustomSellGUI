@@ -1,0 +1,29 @@
+worths:
+    crops:
+        levelup-amount: 5000
+        max-levels: 5
+        multiplier: 0.2
+        gui-item: wheat
+        gui-item-name: "&2Crops"
+        gui-item-lore:
+        - "&7"
+        - "&aCategory Level&8: &e[level]&8/&c[max-levels]"
+        - "&aSells Required&8: &e[amount]&8/&c[levelup-amount]"
+        - "&7"
+        items:
+            carrot: 8
+            potato: 4
+    food:
+        levelup-amount: 5000
+        max-levels: 5
+        multiplier: 0.2
+        gui-item: steak
+        gui-item-name: "&2Food"
+        gui-item-lore:
+        - "&7"
+        - "&aCategory Level&8: &e[level]&8/&c[max-levels]"
+        - "&aSells Required&8: &e[amount]&8/&c[levelup-amount]"
+        - "&7"
+        items:
+            apple: 5
+            melon: 4
